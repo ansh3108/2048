@@ -40,6 +40,17 @@ h1 {
     margin: 20px auto;
 }
 
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: #eee4da;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    border-radius: 5px;
+}
+
 button {
     padding: 10px 20px;
     font-size: 1.2em;
